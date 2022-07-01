@@ -1,0 +1,23 @@
+What is Text Mining?
+Widely used in knowledge-driven organizations, text mining is the process of examining large collections of documents to discover new information or help answer specific research questions.
+
+Text mining identifies facts, relationships and assertions that would otherwise remain buried in the mass of textual big data. Once extracted, this information is converted into a structured form that can be further analyzed, or presented directly using clustered HTML tables, mind maps, charts, etc. Text mining employs a variety of methodologies to process the text, one of the most important of these being Natural Language Processing (NLP).
+
+The structured data created by text mining can be integrated into databases, data warehouses or business intelligence dashboards and used for descriptive, prescriptive or predictive analytics.
+
+What is Natural Language Processing (NLP)?
+Natural Language Understanding helps machines "read" text (or another input such as speech) by simulating the human ability to understand a natural language such as English, Spanish or Chinese. Natural Language Processing includes both Natural Language Understanding and Natural Language Generation, which simulates the human ability to create natural language text e.g. to summarize information or take part in a dialogue.
+
+As a technology, natural language processing has come of age over the past ten years, with products such as Siri, Alexa and Google's voice search employing NLP to understand and respond to user requests. Sophisticated text mining applications have also been developed in fields as diverse as medical research, risk management, customer care, insurance (fraud detection) and contextual advertising.
+
+Today's natural language processing systems can analyze unlimited amounts of text-based data without fatigue and in a consistent, unbiased manner. They can understand concepts within complex contexts, and decipher ambiguities of language to extract key facts and relationships, or provide summaries. Given the huge quantity of unstructured data that is produced every day, from electronic health records (EHRs) to social media posts, this form of automation has become critical to analysing text-based data efficiently.
+
+Machine Learning and Natural Language Processing
+Machine learning is an artificial intelligence (AI) technology which provides systems with the ability to automatically learn from experience without the need for explicit programming, and can help solve complex problems with accuracy that can rival or even sometimes surpass humans.
+
+However, machine learning requires well-curated input to train from, and this is typically not available from sources such as electronic health records (EHRs) or scientific literature where most of the data is unstructured text.
+
+When applied to EHRs, clinical trial records or full text literature, natural language processing can extract the clean, structured data needed to drive the advanced predictive models used in machine learning, thereby reducing the need for expensive, manual annotation of training data.
+
+In this 15-minute presentation, David Milward, CTO of Linguamatics, discusses AI in general, AI technologies such as natural language processing and machine learning and how NLP and machine learning can be combined to create different learning systems.
+
